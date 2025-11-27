@@ -13,7 +13,7 @@ workflows:
         BUNDLE_ID: com.dvcnsdvnsd.dvkjdskvvdsvde
         XCODE_WORKSPACE: SanrinoDialoghiItalia.xcworkspace
         XCODE_SCHEME: SanrinoDialoghiItalia
-        APP_STORE_APPLE_ID: 6755674367
+        APP_STORE_APPLE_ID: 6755815529
     scripts:
       - name: Install npm dependencies
         script: |
